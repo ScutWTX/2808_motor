@@ -1,0 +1,12 @@
+*.o
+*.d
+*.lst
+*.bak
+*.crf
+*.scvd
+*.u
+*.fmx
+*.a
+*hex
+*.url
+/bin
